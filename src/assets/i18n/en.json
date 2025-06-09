@@ -78,6 +78,7 @@
             "travelblog": {
                 "description": "Full-stack travel blog application built with ASP.NET MVC, Entity Framework, SQL Server, featuring user authentication, blog management, city-based content organization, social interactions, and admin panel."
             }
+            
         }
     },
     "contact": {
