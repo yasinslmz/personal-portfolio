@@ -1,0 +1,114 @@
+{
+    "welcome": "Hoş Geldiniz!",
+    "emailCopied": "E-posta panoya kopyalandı!",
+    "header": {
+        "aboutMe": "Hakkımda",
+        "experience": "Deneyim",
+        "projects": "Projeler",
+        "contact": "İletişim",
+        "resume": "Özgeçmiş"
+    },
+    "introduction": {
+        "title": "Merhaba! Benim adım",
+        "fullStackDeveloper": "Full-Stack Geliştirici",
+        "description": "Yenilikçi web deneyimleri oluşturmak konusunda tutkulu. HTML, CSS, JavaScript, Angular, .NET konularında yetenekli. Olağanüstü bir şey yaratmak için birlikte çalışalım! 🚀 Birlikte inşa edelim!",
+        "checkOutMySocials": "Sosyal medya hesaplarımı inceleyin:",
+        "sayhi": "Merhaba de!",
+        "explore": "Keşfet!"
+    },
+    "home": {
+        "aboutMe": {
+            "title": "Hakkımda",
+            "description": "Yeni şeyleri öğrenmeyi ve kendimi geliştirmeyi seven biriyim. Architecht tarafından gerçekleştirilen 6 ay süren Train and Work Software Development Bootcamp'ini başarıyla tamamladım. Bu benzersiz kamp sayesinde birçok yetkinlik edindim. Ardından LC Waikiki'de Planlama-Bütçe ekibinde tam zamanlı olarak Software Developer olarak çalışmaya başladım ve şu anda burada görevime devam ediyorum. Rekabetçi ve yenilikçi yazılım dünyasındaki gelişmeleri takip edip yeni trendlere de uyum sağlıyorum.",
+            "totalGithubFollowers": "Toplam Github Takipçileri",
+            "totalGithubRepos": "Toplam Github Depoları",
+            "areasForGrowth": "Gelişim Alanları",
+            "howMuchIBench": "Bench Press Ağırlığım"
+        },
+        "experience": {
+            "title": "Deneyim",
+            "active": "Aktif",
+            "skills": "Beceriler",
+            "to": "ile",
+            "lc_waikiki": {
+                "title": "Yazılım Geliştirici",
+                "desc_1": "Planlama ve Bütçeleme ekibinde yazılım geliştirici olarak analitik çözüm gerektiren görevler üzerinde çalışmak.",
+                "desc_2": "ASP.NET Core kullanarak RESTful API'ler geliştirmek ve API entegrasyon projelerine katkıda bulunmak.",
+                "desc_3": "Çeşitli iç araçlar için Angular kullanarak kullanıcı arayüzleri ve web uygulamaları oluşturmak.",
+                "desc_4": "Sistem performansını ve izlemeyi iyileştirmek için Redis, RabbitMQ, Kibana, AppDynamics ve SSIS gibi teknolojileri kullanmak.",
+                "desc_5": "Hem arka uç hem de ön uç bileşenlerine odaklanarak .NET projeleri geliştirmek ve bakımını yapmak.",
+                "desc_6": "Yapay zeka entegrasyon projelerine katkıda bulunmak.",
+                "desc_7": "Veritabanı yönetimi ve sorgu optimizasyonu için MSSQL ve T-SQL ile kapsamlı bir şekilde çalışmak.",
+                "desc_8": "Çeşitli projelerde hata ayıklama ve sorun giderme işlemleri yürütmek, karmaşık sorunları çözmek ve sorunsuz operasyonlar sağlamak.",
+                "desc_9": "Temiz, sürdürülebilir ve ölçeklenebilir kod yazmak için OOP ilkelerini takip etmek ve SOLID tasarım ilkelerine bağlı kalmak.",
+                "desc_10": "Proje iş akışlarında uyarlanabilirlik ve sürekli iyileştirme sağlayarak Çevik metodolojiler dahilinde işbirliği yapmak."
+            },
+            "architecht": {
+                "title": "Yazılım Geliştirici Stajyeri",
+                "desc_1": "HTML, CSS ve JavaScript kullanarak web siteleri geliştirmek.",
+                "desc_2": "Web projesi geliştirmede React JS yeterliliği.",
+                "desc_3": "Gelişmiş SQL sorgu yazma ve karmaşık veritabanı sorunlarını giderme.",
+                "desc_4": "ASP.NET Core 6 kullanarak Full Stack MVC projeleri oluşturmak.",
+                "desc_5": "ASP.NET Core 6 Web API kullanarak API'ler geliştirmek.",
+                "desc_6": "Entity Framework kullanarak C# projeleriyle SQL Server'da veritabanları oluşturmak ve entegre etmek.",
+                "desc_7": "Süreçleri iyileştirmek için Azure DevOps gibi DevOps araçlarını kullanmak.",
+                "desc_8": "TFS araçlarını kullanarak ekiplerle işbirliği yapmak.",
+                "desc_9": "Temiz mimari ve kod ilkeleri bilgisi ve bunları projelerde uygulamak.",
+                "desc_10": "C# ve BOA araçlarıyla BOA projelerinde deneyim."
+            },
+            "pi_works": {
+                "title": "Yazılım Destek Stajyeri",
+                "description": "Yazılım destek stajyeri olarak görev alındı."
+            },
+            "endOfStudiesInternship": "Mezuniyet Stajı",
+            "professionalInternship": "Mesleki Staj",
+            "introductoryInternship": "Tanıtım Stajı",
+            "insparkForgeDescription": {
+                "line1": "Mezuniyet stajım sırasında, Inspark Forge adlı bir yetenek-iş eşleştirme ve kariyer takip uygulaması geliştirdim. Proje, 'Bölümün En İyi Projesi' ünvanını kazandı.",
+                "line2": "OpenAI'nin üretken yapay zekasını kullanarak kişiselleştirilmiş tavsiyeler için beceri değerlendirmesi uyguladım.",
+                "line3": "Keycloak kullanarak kimlik doğrulama ve yetkilendirme entegrasyonu yaptım.",
+                "line4": "İş eşleştirme için NLP kullanan bir öneri sistemi geliştirdim.",
+                "line5": "WebSockets ve RabbitMQ ile gerçek zamanlı bildirim sistemi oluşturdum.",
+                "line6": "Yeniden kullanılabilirliği artırmak için NX ile bir monorepo Angular uygulaması geliştirdim.",
+                "line7": "Spring Boot ile ölçeklenebilir bir mikroservis mimarisi tasarladım.",
+                "line8": "Sürdürülebilir mimari için DDD prensiplerini uyguladım.",
+                "line9": "Çeşitli kullanıcılar için çok dilli bir uygulama oluşturdum.",
+                "line10": "Azure'da dosya ve görüntü depolamasını yönettim."
+            },
+            "cniDescription": "Proje yönetimi görevlerini kolaylaştırmak için full-stack web uygulaması geliştirdim",
+            "uibDescription": "Mali işlemleri ve hesap yönetimini kapsamlı bir şekilde gözlemledim."
+        },
+        "projects": {
+            "title": "Projeler",
+            "ViewSource": "Kaynak Kodunu Görüntüle",
+            "InternshipReport": "Staj Raporu",
+            "webApplication": "Web Uygulaması",
+            "flexi": {
+                "description": "Seviye testi, kelime kartları, çoktan seçmeli sınavlar ve yapay zeka destekli konuşmalar gibi etkileşimli özellikler sunan temel İngilizce öğrenme uygulaması."
+            },
+            "cinemaTicketBooking": {
+                "description":  "Cinema ticket booking website with movie management, ticket purchasing, filtering capabilities and other functionalities. Developed as a bootcamp graduation project using ASP.NET MVC."
+            },
+            "bookstore": {
+                "description": "React frontend ve .NET Core API'si ile modern e-ticaret kitap mağazası. Alışveriş sepeti, kullanıcı hesapları, sipariş takibi ve kitap kategorileri içerir."
+            },
+            "travelblog": {
+                "description": "ASP.NET MVC, Entity Framework ve SQL Server ile geliştirilmiş tam kapsamlı seyahat blog uygulaması. Kullanıcı kimlik doğrulama, blog yönetimi, şehir bazlı içerik organizasyonu, sosyal etkileşimler ve admin paneli içerir."
+            }
+        }
+    },
+    "contact": {
+        "getInTouch": "İletişime Geçin!",
+        "letsBuild": "Birlikte",
+        "somethingTogether": "Bir Şeyler İnşa Edelim",
+        "description": "Yeni fırsatlar hakkında konuşmak isterseniz, benimle iletişime geçmenizden memnuniyet duyarım. Bana yazın, mesajınızı gördüğüm anda size cevap vereceğim.",
+        "dontLikeMails": "E-postaları sevmiyor musunuz? Bana bir",
+        "messageInstead": "mesaj gönderin 👋"
+    },
+    "footer": {
+        "bye": "Hoşçakalın! Yakında görüşürüz",
+        "madeWith": "Şunlar kullanılarak yapılmıştır:",
+        "and": "ve",
+        "rightsReserved": "Tüm hakları saklıdır."
+    }
+} 
