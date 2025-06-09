@@ -1,0 +1,97 @@
+{
+    "welcome": "Welcome!",
+    "emailCopied": "Email copied to clipboard!",
+    "header": {
+        "aboutMe": "About Me",
+        "experience": "Experience",
+        "projects": "Projects",
+        "contact": "Contact",
+        "resume": "Resume"
+    },
+    "introduction": {
+        "title": "Hello there! my name is",
+        "fullStackDeveloper": "Full-Stack Developer",
+        "description": "Enthusiastic about crafting groundbreaking web experiences. Skilled in HTML, CSS, JavaScript, Angular, .NET Let's collaborate to create something extraordinary! 🚀 Let's build together!",
+        "checkOutMySocials": "Check out my socials:",
+        "sayhi": "Say hi !",
+        "explore": "Explore!"
+    },
+    "home": {
+        "aboutMe": {
+            "title": "About Me",
+            "description": "I am someone who loves learning new things and improving myself. I successfully completed the 6-month Train and Work Software Development Bootcamp organized by Architecht. Thanks to this unique camp, I acquired many competencies. Afterwards, I started working full-time as a Software Developer in the Planning-Budget team at LC Waikiki, where I am currently continuing my role. I follow the developments in the competitive and innovative software world and adapt to new trends.",
+            "totalGithubFollowers": "Total Github Followers",
+            "totalGithubRepos": "Total Github Repos",
+            "areasForGrowth": "Areas for Growth",
+            "howMuchIBench": "How much I bench"
+        },
+        "experience": {
+            "title": "Experience",
+            "active": "Active",
+            "skills": "Skills",
+            "to": "to",
+            "lc_waikiki": {
+                "title": "Software Developer",
+                "desc_1": "Working as a software developer in the Planning and Budgeting team, handling tasks that required analytical solutions.",
+                "desc_2": "Developed RESTful APIs using ASP.NET Core, contributing to API integration projects.",
+                "desc_3": "Built user interfaces and web applications using Angular for various internal tools.",
+                "desc_4": "Utilized technologies such as Redis, RabbitMQ, Kibana, AppDynamics, and SSIS to enhance system performance and monitoring.",
+                "desc_5": "Developed and maintained .NET projects, focusing on both backend and frontend components.",
+                "desc_6": "Contributed to artificial intelligence integration projects.",
+                "desc_7": "Worked extensively with MSSQL and T-SQL for database management and query optimization.",
+                "desc_8": "Conducted debugging and troubleshooting in various projects, resolving complex issues and ensuring smooth operations.",
+                "desc_9": "Followed OOP principles and adhered to SOLID design principles to write clean, maintainable, and scalable code.",
+                "desc_10": "Collaborated within Agile methodologies, ensuring adaptability and continuous improvement in project workflows."
+            },
+            "architecht": {
+                "title": "Software Developer Trainee",
+                "desc_1": "Developing websites using HTML, CSS, and JavaScript.",
+                "desc_2": "Proficiency in React JS for web project development.",
+                "desc_3": "Advanced SQL query writing and troubleshooting complex database issues.",
+                "desc_4": "Building Full Stack MVC projects using ASP.NET Core 6.",
+                "desc_5": "Developing APIs using ASP.NET Core 6 Web API.",
+                "desc_6": "Creating and integrating databases in SQL Server with C# projects using Entity Framework.",
+                "desc_7": "Utilizing DevOps tools like Azure DevOps to enhance processes.",
+                "desc_8": "Collaborating with teams using TFS tools.",
+                "desc_9": "Knowledge of clean architecture and code principles, applying them in projects.",
+                "desc_10": "Experience in BOA projects with C# and BOA tools."
+            },
+            "pi_works": {
+                "title": "Software Support Intern",
+                "description": "Worked as a software support intern."
+            }
+        },
+        "projects": {
+            "title": "Projects",
+            "ViewSource": "View Source Code",
+            "InternshipReport": "Internship Report",
+            "webApplication": "Web Application",
+            "flexi": {
+                "description": "Basic English learning app that includes interactive features like level testing, flash cards, multiple choice quizzes, and AI-powered conversations."
+            },
+            "cinemaTicketBooking": {
+                "description": "Cinema ticket booking website with movie management, ticket purchasing, filtering capabilities and other functionalities. Developed as a bootcamp graduation project using ASP.NET MVC."
+            },
+            "bookstore": {
+                "description": "Full-stack bookstore application demonstrating React, Redux, ASP.NET Core Web API, Entity Framework, SQL Server, JWT authentication, and modern web development practices."
+            },
+            "travelblog": {
+                "description": "Full-stack travel blog application built with ASP.NET MVC, Entity Framework, SQL Server, featuring user authentication, blog management, city-based content organization, social interactions, and admin panel."
+            }
+        }
+    },
+    "contact": {
+        "getInTouch": "Get in Touch!",
+        "letsBuild": "Let's Build",
+        "somethingTogether": "Something Together",
+        "description": " I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
+        "dontLikeMails": " Don't like mails ? Send me a",
+        "messageInstead": " message instead👋"
+    },
+    "footer": {
+        "bye": "Bye! See you soon",
+        "madeWith": "Made with",
+        "and": "and",
+        "rightsReserved": "All rights reserved."
+    }
+}
